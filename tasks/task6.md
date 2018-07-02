@@ -48,4 +48,4 @@ while True:
 
 ### Supporting information
 
-* The complete tutorial and technical documentation about using the radio function to mimic the firefly behaviour can be found [here](https://microbit-micropython.readthedocs.io/en/latest/tutorials/radio.html#fireflies).
+* The complete tutorial and technical documentation about using the radio functions to mimic the firefly behaviour can be found [here](https://microbit-micropython.readthedocs.io/en/latest/tutorials/radio.html#fireflies).

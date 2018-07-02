@@ -67,4 +67,4 @@ If you print the incoming message, you will see that sometimes it contains the v
 
 ### Supporting information
 
-* The complete tutorial and technical documentation about Buttons can be found [here](http://microbit-micropython.readthedocs.io/en/latest/button.html).
+* The complete tutorial and technical documentation about Radio can be found [here](http://microbit-micropython.readthedocs.io/en/latest/radio.html).
