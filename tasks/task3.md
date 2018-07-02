@@ -36,3 +36,5 @@ display.show(image)
 ## Supporting information
 
 * The complete tutorial and technical documentation about Images can be found [here](http://microbit-micropython.readthedocs.io/en/latest/image.html).
+
+:arrow_forward: Go to [next task](task4.md)

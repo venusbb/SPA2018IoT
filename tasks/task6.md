@@ -53,3 +53,5 @@ while True:
 ## Supporting information
 
 * The complete tutorial and technical documentation about using the radio functions to mimic the firefly behaviour can be found [here](https://microbit-micropython.readthedocs.io/en/latest/tutorials/radio.html#fireflies).
+
+:arrow_forward: Go to [next task](task7.md)

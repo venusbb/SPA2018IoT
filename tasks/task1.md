@@ -25,3 +25,5 @@ while True:
 ```
 
 Download the hex file and ship it onto your micro:bit.
+
+:arrow_forward: Go to [next task](task2.md)

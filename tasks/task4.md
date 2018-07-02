@@ -50,3 +50,5 @@ while True:
 * The complete tutorial and technical documentation about Movement can be found [here](http://microbit-micropython.readthedocs.io/en/latest/tutorials/movement.html).
 
 * The complete tutorial and technical documentation about Gestures can be found [here](http://microbit-micropython.readthedocs.io/en/latest/tutorials/gestures.html).
+
+:arrow_forward: Go to [next task](task5.md)

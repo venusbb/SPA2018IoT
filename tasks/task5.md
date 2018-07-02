@@ -68,3 +68,5 @@ If you print the incoming message, you will see that sometimes it contains the v
 ## Supporting information
 
 * The complete tutorial and technical documentation about Radio can be found [here](http://microbit-micropython.readthedocs.io/en/latest/radio.html).
+
+:arrow_forward: Go to [next task](task6.md)
