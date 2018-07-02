@@ -33,6 +33,6 @@ image = Image("90009:"
 display.show(image)
 ```
 
-### Supporting information
+## Supporting information
 
 * The complete tutorial and technical documentation about Images can be found [here](http://microbit-micropython.readthedocs.io/en/latest/image.html).

@@ -37,6 +37,6 @@ while True:
     sleep(100)
 ```
 
-### Supporting information
+## Supporting information
 
 * The complete tutorial and technical documentation about Buttons can be found [here](http://microbit-micropython.readthedocs.io/en/latest/button.html).

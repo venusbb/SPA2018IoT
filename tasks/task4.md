@@ -45,7 +45,7 @@ while True:
         display.show("-")
 ```
 
-### Supporting information
+## Supporting information
 
 * The complete tutorial and technical documentation about Movement can be found [here](http://microbit-micropython.readthedocs.io/en/latest/tutorials/movement.html).
 

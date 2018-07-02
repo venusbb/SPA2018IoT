@@ -8,8 +8,6 @@ Your micro:bit has a radio chip that can be used to transmit and receive message
 
 This exercise aims to expose the usage of radio broadcasting and receiving features in a micro:bit.
 
-*Challenge: How do you ensure you are only receiving messages from your partner?*
-
 ## Goal
 
 Working with you partner, use the radio broadcasting and receiving feature in conjunction with channl config to broadcast your group number to everyone using the Radio library.
@@ -61,10 +59,12 @@ while True:
             print(incoming)
     sleep(500)
 ```
+## Extra challenge(s)
+* **Audience restrictions** - How do you ensure you are only receiving messages from your partner?
 
-### Troubleshooting: 
+## Troubleshooting: 
 If you print the incoming message, you will see that sometimes it contains the value `None`. That is because sometimes the micro:bit checks for a message but nothing has arrived. We can ignore these non-events by checking whether incoming equals `None` and ignoring it if that is the case. (Just make sure your partner is not sending you a string with value `None`!)
 
-### Supporting information
+## Supporting information
 
 * The complete tutorial and technical documentation about Radio can be found [here](http://microbit-micropython.readthedocs.io/en/latest/radio.html).

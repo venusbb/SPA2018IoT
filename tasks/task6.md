@@ -39,13 +39,17 @@ while True:
         # pause.
         sleep(random.randint(50, 350))
         display.show(flash, delay=100, wait=False)
-        # Randomly re-broadcast the flash message after a
-        # slight delay.
-        if random.randint(0, 9) == 0:
-            sleep(500)
-            radio.send('flash')  # a-ha
+        # Sleep for a hit before reboardcasting 
+        sleep(500)
+        radio.send('flash')  # a-ha
 ```
 
-### Supporting information
+## Extra challenge(s)
+
+* **Audience restriction** - Can you only broadcast to your own group?
+
+* **Randomising the rebroadcast** - In real life, the rebroadcasting is randomised. Try to add randomising logic to the existing code to simulate that.
+
+## Supporting information
 
 * The complete tutorial and technical documentation about using the radio functions to mimic the firefly behaviour can be found [here](https://microbit-micropython.readthedocs.io/en/latest/tutorials/radio.html#fireflies).
