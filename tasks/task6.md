@@ -1,4 +1,4 @@
-# Task 6 : Firefly
+# Task 6 : Firefly (Part 1)
 
 ## Aim
 

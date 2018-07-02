@@ -1,12 +1,12 @@
 # What is in this directory?
-There are six tasks in total:
 
 * [Task 1 : Hello World!](task1.md)
 * [Task 2 : Buttons](task2.md)
 * [Task 3 : Images](task3.md)
 * [Task 4 : Movement and Gestures](task4.md)
 * [Task 5 : Radio](task5.md)
-* [Task 6 : Firefly](task6.md)
+* [Task 6 : Firefly Part 1](task6.md)
+* [Task 7 : Firefly Part 2](task7.md)
 
 # Quick links:
 
