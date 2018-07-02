@@ -8,6 +8,7 @@ This is the simpliest exercise to get you started with:
 * shipping the code to the micro:bit and seeing it in action 
 
 ## Goal
+
 Implement the logic so that the text `Hello, World!` scrolls pass on your micro:bit and a heart is displayed. The sequence repeats after 2 seconds.
 
 ## Instructions

@@ -5,6 +5,7 @@
 This exercise aims to expose the usage of the buttons on a micro:bit.
 
 ## Goal
+
 Implement the logic so that:
 * Press Button A - Display a heart
 * Press Button B - Display a message

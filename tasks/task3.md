@@ -6,6 +6,7 @@
 This exercise aims to expose the usage of the creating and displaying images on a micro:bit.
 
 ## Goal
+
 Implement the logic so that you can display customised images on a micro:bit.
 
 ## Instructions
