@@ -54,9 +54,9 @@ radio.on()
 while True:
     
     incoming = radio.receive()
-        if incoming == 'flash':
-            display.show(incoming)
-            print(incoming)
+    if incoming == 'flash':
+        display.show(incoming)
+        print(incoming)
     sleep(500)
 ```
 ## Extra challenge(s)
